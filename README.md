@@ -1,1 +1,1 @@
-Need add plugins template: [template](https://github.com/tmux-plugins/tpm)
+Need add plugins [template](https://github.com/tmux-plugins/tpm)
